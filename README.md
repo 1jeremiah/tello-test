@@ -70,3 +70,11 @@ To deactivate, just type `exit`
 ```
 pip3 install djitellopy
 ```
+
+## Simple Instructions To Update Git
+
+```bash
+git add .
+git commit -m "my change message"
+git push origin <branch> # usually master/main
+```

@@ -1,2 +1,4 @@
+.DS_Store
+
 # ignore python venv that can be reconstructed
 dev
